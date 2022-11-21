@@ -1,5 +1,5 @@
 {
-    "name": "2captcha/2captcha",
+    "name": "trongloikt192/2captcha",
     "description": "PHP package for easy integration with 2captcha API",
     "keywords": [
         "2captcha",
@@ -17,14 +17,6 @@
         "captcha solver",
         "decaptcha",
         "2captcha.com"
-    ],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "2captcha",
-            "email": "info@2captcha.com",
-            "homepage": "https://2captcha.com/"
-        }
     ],
     "require": {
         "php": ">=5.6",
