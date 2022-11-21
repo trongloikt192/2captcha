@@ -31,7 +31,7 @@ This package can be installed via composer or manually
 
 ### Composer
 ```
-composer require 2captcha/2captcha
+composer require trongloikt192/2captcha
 ```
 
 ### Manual

@@ -18,6 +18,7 @@
         "decaptcha",
         "2captcha.com"
     ],
+    "license": "MIT",
     "require": {
         "php": ">=5.6",
         "ext-curl": "*",
